@@ -14,7 +14,7 @@
       },
     "tabs": [
       {
-        "tab1": {
+        "tab3": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0.65,0,1\">Survivor Stories</>",
           "title1": "Servidores PVE en clúster Survivor Stories",
@@ -23,7 +23,7 @@
           "text1": "x2 Doma\nx2 Recolecta\nx2 Experiencia\nx3 Crianza\n\n\nSurvivor Stories\n\nTenemos The Island y Scorched Earth en clúster y vamos a ir añadiendo todos los servidores oficiales a medida que vayan saliendo.\nDisponemos de hardware de servidor dedicado propio, de alta gama, y alojado en España para ofreceros un rendimiento excelente, además de un ping bajo para que disfrutéis del juego como se debería durante mucho tiempo.",
           "text2": "Comandos para el chat global del juego (solo implementado en La isla de momento):\n\n+register <TuDiscord> Ej:+register Dhurkar - Vincula tu personaje Ark con el Discord\n+rename - Cambia el nombre de tu personaje\n\nUna vez registrado, en el discord podrás acceder a estadisticas de tu pj y tribu",
           "text3": "Plugin para ver las estadísticas base que tenia tu dino cuando lo domesticaste, util para crianza.\n\n/ds - Muestra las estadísticas base de el dino al que apuntas\n/shazam - Cambia el nombre de tu dino con sus estadísticas base.\n/boom - Renombrar a todos los bebés con sus estadísticas base.",
-          "imageurl": "https://i.imgur.com/IIPJXjL.jpeg"
+          "imageurl": "https://i.imgur.com/iG47okL.jpeg"
         }
       }
     ],
